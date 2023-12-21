@@ -1,2 +1,2 @@
 # Ovale-website
-Our test website for hosting on IPFS
+Buildng an educational website to share knowledge for all.
